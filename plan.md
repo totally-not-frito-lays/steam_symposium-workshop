@@ -84,4 +84,15 @@ qr code.
     - ie. programming-pro, motor-mayor, builder-boss
 - learners remember events more than what they built
 - capstone events are social experiences
-- 
+
+## Resources
+- LEGO, FIRST, VEX all have awesome lesson plans
+
+| Link | Description |
+| --- | --- |
+| [RedwoodCity/Lego-League](https://sites.google.com/view/rcplcode/lego-robotics-league) | LEGO Robotics Coding Club |
+| [LEGO/Prime](https://education.lego.com/en-us/start/spike-prime/) | LEGO lesson plans |
+| [VEX/Lesson-Plan](https://hoc.vexrobotics.com/activities/iq/) | VEX lesson plans |
+| [CSforCA/CS-K-12-Standards](https://csforca.org/wp-content/uploads/2019/11/compscik12standards.xlsx-All-sorted-by-grade.pdf) | CS K-12 Standards |
+| [UDL/Universal-Design-for-Learning](https://udlguidelines.cast.org/) | UDL Principles for Inclusive Education |
+| [PRIMM/framework](https://primmportal.com/) | Teaching / planning framework for programming lessons |
